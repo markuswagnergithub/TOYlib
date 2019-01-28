@@ -13,6 +13,8 @@ For us as researchers, the appeal of the figurines is manifold:
 - For each item in the catalog, we include at least one low-resolution photo. This allows us to consider aspects such as shapes and brightness into complex fitness functions. 
 - Lastly, quite of few of us can relate to small collectible items, independent of whether these are toys, postal stamps, trading cards, or others.
 
+The subfolder https://github.com/markuswagnergithub/TOYlib/tree/master/KinderSurprise2019 contains a technical report, the data in CSV format, a subfolder with images, and a Python Jupyter Notebook the demonstrate the use with Gurobi.
+
 # Citation
 
 If you'd like to use this, please go ahead!
