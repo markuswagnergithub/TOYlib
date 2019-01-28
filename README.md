@@ -19,13 +19,13 @@ If you'd like to use this, please go ahead!
 
 Please cite this collection in the following way:
 
+```
 @misc{toylib,
-  author =	"Markus Wagner",
-  title =	"{TOYlib} - {A} Library of Real-World Toy Problems",
-  institution =  "University of Adelaide",
+  author =	{Markus Wagner},
+  title =	{{TOYlib - A Library of Real-World Toy Problems}},
   year = 	"2019",
-  address =	"Adelaide, Australia",
   howpublished = {\url{https://github.com/markuswagnergithub/TOYlib}},
 }
+```
 
 If you have any questions, please contact me: markus.wagner'@'adelaide.edu.au
